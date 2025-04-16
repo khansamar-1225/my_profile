@@ -1,0 +1,23 @@
+{
+  "name": "my_profile",
+  "version": "1.0.0",
+  "description": "A webpage showing my profile with my name and photograph as well as skills",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khansamar-1225/my_profile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khansamar-1225/my_profile/issues"
+  },
+  "homepage": "https://github.com/khansamar-1225/my_profile#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
